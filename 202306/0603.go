@@ -1,5 +1,7 @@
 package main
 
+// 0603
+
 func maxRepOpt1(text string) int {
 	// 统计每个字符出现的次数
 	cnt := [26]int{}
