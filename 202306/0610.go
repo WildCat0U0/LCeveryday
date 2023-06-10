@@ -104,5 +104,5 @@ func numSmallerByFrequencyLeetCodeUsers(queries []string, words []string) (ans [
 		x := f(q)
 		ans = append(ans, n-sort.SearchInts(nums, x+1))
 	}
-	return
+	return ans
 }
