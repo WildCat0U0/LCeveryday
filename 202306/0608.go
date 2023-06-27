@@ -1,4 +1,4 @@
-package main
+package abc
 
 // 暴力求解
 func min(a, b int) int {
